@@ -14,7 +14,7 @@
 ### Report on Model
  Overview, Results, Summary
 
-### Libraries/ Models
+### Libraries/ Modules
 sklearn.model_selection/preprocessing, pandas, tensorflow.keras.models/layers
 
 ### Resources
