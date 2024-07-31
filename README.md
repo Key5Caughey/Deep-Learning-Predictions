@@ -18,4 +18,4 @@
 sklearn.model_selection/preprocessing, pandas, tensorflow.keras.models/layers
 
 ### Resources
-Class notes, Office hours, Tutor, Chatgpt
+Class notes, Office hours, Tutor, Chatgpt,Google
