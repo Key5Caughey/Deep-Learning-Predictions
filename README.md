@@ -1,4 +1,4 @@
-# Deep-Learning-Analsis 
+# Deep-Learning-Analysis 
 
 ## Finding non-profit success using deep-learning
 
